@@ -17,4 +17,7 @@ func main() {
 	fmt.Println(z)
 	p := "Bob, Marley"
 	fmt.Println(p)
+	// using var
+	var n = 32
+	fmt.Println(n)
 }
