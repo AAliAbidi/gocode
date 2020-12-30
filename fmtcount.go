@@ -9,6 +9,6 @@ func main() {
 	div()
 }
 func div() {
-	n,  := fmt.Println(2)
+	n, _ := fmt.Println(2)
 	fmt.Println(n)
 }
