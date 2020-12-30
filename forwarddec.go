@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 )
-
+var k = "Google"
 func main() {
 	x := 42
 	fmt.Println(x)
@@ -20,4 +20,5 @@ func main() {
 	// using var
 	var n = 32
 	fmt.Println(n)
+	fmt.println(k)
 }
