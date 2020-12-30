@@ -15,4 +15,6 @@ func main() {
 	fmt.Println(y)
 	z := y + 10
 	fmt.Println(z)
+	p := "Bob, Marley"
+	fmt.Println(p)
 }
