@@ -17,5 +17,6 @@ func main() {
 	y = 911
 	fmt.Printf("%x\n", y)
 	fmt.Printf("%#x\n", y)
+	//Conversion of sun in to int
 	fmt.Printf("%T\n", int(b))
 }
